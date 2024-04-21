@@ -1,0 +1,12 @@
+aiogram==2.25
+asyncpg==0.29.0
+requests==2.31.0
+environs
+gunicorn
+django
+django-jazzmin
+psycopg2-binary
+instagrapi
+aiofiles
+Pillow
+jazzmin
